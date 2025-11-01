@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-design-pattern-study",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js 디자인 패턴 학습 프로젝트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+

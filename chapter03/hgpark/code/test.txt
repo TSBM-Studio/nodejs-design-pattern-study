@@ -1,0 +1,6 @@
+hello world
+hello javascript
+hello nodejs
+This is a test file for FindRegex class.
+hello pattern matching
+
