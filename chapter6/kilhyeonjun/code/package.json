@@ -1,0 +1,21 @@
+{
+  "name": "chapter6-stream-examples",
+  "version": "1.0.0",
+  "description": "Node.js 스트림 코딩 실습 예제",
+  "type": "module",
+  "scripts": {
+    "gzip": "node gzip-stream.js",
+    "replace": "node replace-stream.js",
+    "check-urls": "node parallel-stream.js"
+  },
+  "keywords": [
+    "nodejs",
+    "streams",
+    "transform",
+    "parallel"
+  ],
+  "author": "kilhyeonjun",
+  "dependencies": {
+    "split2": "^4.2.0"
+  }
+}
