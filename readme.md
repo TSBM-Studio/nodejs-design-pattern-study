@@ -55,12 +55,12 @@ node.js 디자인 패턴 바이블 책을 읽고 배운 내용을 자유롭게 �
   <tr>
     <td align="center"><a href="https://github.com/EeeasyCode"><img src="https://avatars.githubusercontent.com/u/92606611?v=4" alt=""/><br /><sub><b>
 이창민</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Combi153"><img src="https://avatars.githubusercontent.com/u/106813090?v=4" alt=""/><br /><sub><b>
-주찬민</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/kilhyeonjun"><img src="https://avatars.githubusercontent.com/u/41348539?v=4" alt=""/><br /><sub><b>
 길현준</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/minenam"><img src="https://avatars.githubusercontent.com/u/35288895?v=4" alt=""/><br /><sub><b>
 남혜민</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/steinsroka"><img src="https://avatars.githubusercontent.com/u/62500287?v=4" alt=""/><br /><sub><b>
+박해규</b></sub></a><br /></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/seoyeonjin"><img src="https://avatars.githubusercontent.com/u/68274803?v=4" alt=""/><br /><sub><b>
@@ -69,8 +69,6 @@ node.js 디자인 패턴 바이블 책을 읽고 배운 내용을 자유롭게 �
 이세호</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/dc-choi"><img src="https://avatars.githubusercontent.com/u/57163578?v=4" alt=""/><br /><sub><b>
 최동철</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/steinsroka"><img src="https://avatars.githubusercontent.com/u/62500287?v=4" alt=""/><br /><sub><b>
-박해규</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -84,3 +82,6 @@ node.js 디자인 패턴 바이블 책을 읽고 배운 내용을 자유롭게 �
 | Week 1 | 10/27 | chapter 1 & 2 | - 1장 & 2장 학습 <br>- 학습 내용 발표                       |
 | Week 2 | 11/03 | chapter 3     | - 3장 학습 <br>- 학습 내용 발표                       |
 | Week 3 | 11/10 | chapter 4 & 5 | - 4장  & 5장 학습 <br>- 학습 내용 발표                       |
+| Week 4 | 11/17 | chapter 6 | - 6장 학습 <br>- 학습 내용 발표                       |
+| Week 5 | 11/24 | chapter 7 | - 7장 학습 <br>- 학습 내용 발표                       |
+| Week 6 | 12/2 | chapter 8 & 9 | - 8장 & 9장 학습 <br>- 학습 내용 발표                       |
