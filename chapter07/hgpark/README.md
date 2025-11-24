@@ -78,16 +78,13 @@ Builder 패턴은 복잡한 객체를 단계적(fluid)으로 구축하는 수단
 구성 요소는 보통 다음 네 가지다:
 
 - Builder
-
   - 객체를 만들기 위한 단계적 API 제공
 
 - Concrete Builder
-
   - Builder를 구현한 실제 생성자
   - 내부적으로 객체의 각 부분을 조립
 
 - Director
-
   - Builder의 메서드를 호출하는 순서를 정의
   - "이런 절차로 만들어라"라는 생성 알고리즘을 제공
 
